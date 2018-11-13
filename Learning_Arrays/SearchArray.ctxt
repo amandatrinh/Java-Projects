@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=intArray\ sValue
+comment0.target=int\ searchInt(int[],\ int)
+comment0.text=Method\ to\ search\ an\ Integer\ Array
+comment1.params=SArray\ name
+comment1.target=int\ searchString(java.lang.String[],\ java.lang.String)
+comment1.text=Method\ to\ search\ a\ String\ Array
+numComments=2
