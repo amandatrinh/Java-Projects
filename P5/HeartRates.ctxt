@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HeartRates()
+comment1.params=
+comment1.target=java.util.Date\ createDate()
+comment2.params=inputFirstname\ inputLastname\ inputBirthmonth\ inputBirthday\ inputBirthyear
+comment2.target=HeartRates(java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
