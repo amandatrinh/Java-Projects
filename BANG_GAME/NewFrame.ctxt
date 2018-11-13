@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NewFrame()
+comment1.params=x
+comment1.target=int\ getpj(int)
+comment2.params=x
+comment2.target=int\ addpj(int)
+comment3.params=j\ x\ players\ length
+comment3.target=void\ addCardGraphics(int,\ int,\ java.util.ArrayList,\ int)
+comment4.params=g
+comment4.target=void\ paint(java.awt.Graphics)
+comment4.text=public\ static\ void\ addComponentsToContent(Container\ content)\n\ \ \ \ {\n\ \ \ \ new\ NewFrame();\n}
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+comment5.text=private\ static\ void\ createAndShowGUI()\ \n\ \ \ \ {\n\ \ \ \ JFrame\ window\ \=\ new\ JFrame("BANG");\n\ \ \ \ window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);\n\n\ \ \ \ addComponentsToContent(window.getContentPane());\n\n\ \ \ \ Insets\ insets\ \=\ window.getInsets();\n\ \ \ \ window.setSize(1size.height,800);\n\ \ \ \ window.setVisible(true);\n\n}\ //\ end\ method\ createAndShowGUI
+numComments=6

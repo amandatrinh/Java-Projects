@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=lifePoints\ nm
+comment0.target=Character(int,\ java.lang.String)
+comment1.params=effect
+comment1.target=int\ calcHealth(int)
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getHealth()
+numComments=5

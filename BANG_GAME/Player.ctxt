@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=mot\ nm\ c
+comment0.target=Player(java.lang.String,\ java.lang.String,\ Character)
+comment1.params=
+comment1.target=Character\ getChar()
+comment2.params=index
+comment2.target=Cards\ getCard(int)
+comment3.params=index
+comment3.target=Cards\ drawCard(int)
+comment4.params=c
+comment4.target=void\ addCard(Cards)
+comment5.params=
+comment5.target=int\ getCardSize()
+numComments=6

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=c\ letter\ score
+comment0.target=AP(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Constructor\ class\ that\ initializes\ the\ variables\ course,\ lettergrade,\ apscore\n\ @param\ name\ of\ course\ (c),\ String\ course\n\ @param\ grade\ (letter)\ received\ for\ course,\ String\ lettergrade\n\ @param\ user's\ score\ received\ on\ AP\ exam,\ int\ apscore\n
+comment1.params=
+comment1.target=boolean\ setisWeighted()
+comment1.text=\n\ Identifies\ AP\ objects\ courses\ as\ weighted\ courses\n\ @return\ boolean\ isWeighted,\ true\n
+comment2.params=
+comment2.target=boolean\ passClass()
+comment2.text=\n\ According\ to\ String\ lettergrade,\ checks\ if\ user\ passed\ the\ course\ or\ not.\n\ @return\ boolean\ credit,\ if\ user\ passed\ course\ or\ not\n
+comment3.params=
+comment3.target=double\ getGradePoint()
+comment3.text=\n\ Method\ to\ determine\ grade\ point\ earned\ towards\ student's\ course\n\ @return\ double\ point\ (grade\ point\ earned\ from\ the\ users\ course)\n
+comment4.params=
+comment4.target=boolean\ passAP()
+comment4.text=\n\ Method\ that\ uses\ int\ apscore\ to\ determine\ whether\ or\ not\ user\ passed\ AP\ exam\n\ @return\ boolean\ true\ if\ user\ passed\ exam\ or\ false\ if\ not\ (or\ score\ does\ not\ exist)\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ A\ method\ that\ essentially\ creates\ a\ string\ \n\ Overrides\ the\ parent\ class's,\ Transcript,\ method\ to\ add\ that\ the\ class\ is\ an\ AP\ type\ course\ and\ how\ it's\ weighted\n\ and\ adds\ int\ apscore\ and\ passAP()\ method\ when\ returned\n\ @return\ String\ that\ prints\ out\ all\ the\ information\ from\ all\ the\ abstract\ class's\ method\n
+numComments=6

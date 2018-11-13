@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=c\ letter
+comment0.target=Honors(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ class\ that\ initializes\ the\ variables\ course\ and\ lettergrade\n\ @param\ name\ of\ course\ (c),\ String\ course\n\ @param\ grade\ (letter)\ received\ for\ course,\ String\ lettergrade\n
+comment1.params=
+comment1.target=boolean\ setisWeighted()
+comment1.text=\n\ Identifies\ Honors\ objects\ courses\ as\ weighted\ courses\n\ @return\ boolean\ isWeighted,\ true\n
+comment2.params=
+comment2.target=boolean\ passClass()
+comment2.text=\n\ According\ to\ String\ lettergrade,\ checks\ if\ user\ passed\ the\ course\ or\ not.\n\ @return\ boolean\ credit,\ if\ user\ passed\ course\ or\ not\n
+comment3.params=
+comment3.target=java.lang.String\ iseligibleAP()
+comment3.text=\n\ Creates\ boolean\ eligibleAP\ and\ then\ reads\ from\ a\ text\ file,\ AP.txt,\ using\ a\ Scanner\ object\n\ Checks\ to\ see\ if\ the\ course\ has\ an\ AP\ equivalence\n\ @return\ String\ that\ says\ if\ there\ is\ an\ available\ AP\ course\n\ @throws\ IOException\ in\ case\ the\ file\ "AP.txt"\ does\ not\ exist\ or\ their\ is\ something\ wrong\ with\ it,\ exceptions\ must\ be\ catched\ and\ thrown\n
+comment4.params=
+comment4.target=double\ getGradePoint()
+comment4.text=\n\ Method\ to\ determine\ grade\ point\ earned\ towards\ student's\ course\n\ @return\ double\ point\ (grade\ point\ earned\ from\ the\ users\ course)\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ A\ method\ that\ essentially\ creates\ a\ string\ \n\ Overrides\ the\ parent\ class's,\ Transcript,\ method\ to\ add\ that\ the\ class\ is\ an\ Honors\ type\ course\ and\ how\ it's\ weighted\n\ @return\ String\ that\ prints\ out\ all\ the\ information\ from\ all\ the\ abstract\ class's\ method\n
+numComments=6

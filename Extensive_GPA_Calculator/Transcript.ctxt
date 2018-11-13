@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getCourse()
+comment0.text=\n\ @return\ String\ course\n
+comment1.params=
+comment1.target=boolean\ setisWeighted()
+comment1.text=\n\ According\ to\ type\ of\ subclass\:\n\ @return\ boolean\ isWeighted,\ if\ course\ is\ a\ weighted\ class\ or\ not\n
+comment2.params=
+comment2.target=boolean\ passClass()
+comment2.text=\n\ According\ to\ String\ lettergrade,\ checks\ if\ user\ passed\ the\ course\ or\ not.\n\ @return\ boolean\ credit,\ if\ user\ passed\ course\ or\ not\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ A\ method\ that\ essentially\ creates\ a\ string\n\ @return\ String\ that\ prints\ out\ all\ the\ information\ from\ all\ this\ class's\ methods\n
+numComments=4

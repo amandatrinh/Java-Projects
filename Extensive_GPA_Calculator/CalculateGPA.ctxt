@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=double\ getGradePoint()
+comment0.text=\n\ Method\ to\ determine\ grade\ point\ earned\ towards\ student's\ course\n\ @return\ double\ point\ (grade\ point\ earned\ from\ the\ users\ course)\n
+numComments=1
